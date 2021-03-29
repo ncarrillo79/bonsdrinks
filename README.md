@@ -12,7 +12,7 @@ JavaScript
 ## Iniciando
 
 Primeiro clone o projeto:
-git clone https://github.com/thiago-tga/GO-Store
+https://github.com/ncarrillo79/bonsdrinks.git
 
 depois na linha de comandos
 
